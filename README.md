@@ -5,6 +5,7 @@ This repository contains the code and documentation for my IDPA project. The goa
 ## Live Demo
 
 You can test the EMNIST-trained model yourself directly in your browser using Hugging Face Spaces:
+
 👉 [**Try the EMNIST Model on Hugging Face**](https://huggingface.co/spaces/Weindlin/IDPA_Handwritten_Digits_recogniser)
 
 ## Project Overview
