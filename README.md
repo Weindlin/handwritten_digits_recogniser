@@ -1,6 +1,6 @@
 # Handwritten Digit Recognizer (IDPA Project)
 
-This repository contains the code and documentation for my IDPA (Interdisciplinary Project Work) project. The goal of this project was to build and train a Convolutional Neural Network (CNN) capable of accurately recognizing handwritten digits.
+This repository contains the code and documentation for my IDPA project. The goal of this project was to build and train a Convolutional Neural Network (CNN) capable of accurately recognizing handwritten digits.
 
 ## Live Demo
 
