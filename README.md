@@ -30,6 +30,6 @@ To ensure the models didn't just memorize the datasets, I created a custom datas
 
 * Hugging Face Spaces (for deployment)
 
-## License
+##
 
 This project was created as part of an IDPA. Feel free to explore the code and reach out if you have any questions!
